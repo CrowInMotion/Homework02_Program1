@@ -1,0 +1,5 @@
+RGB Color Slider
+
+The user is shown three seekbars. As those seekbars move the background color, color values, and hexadecimal value is updated to reflect the current color. When save color is clicked, the color is added to a scrollable listview below the hexadecimal value. When a color is clicked in the list, the background and text values are updated to match the choice. Text only changes to white if the red and green values are below 125, and if the current blue value is the only value above 125. I spent a bit of time trying to get the progress value of the seekbars to link to the color value of the background, but once I got ita then I really picked up some traction.
+
+I named it Homework02 initially because it was written that way in the instructions, so changing it would have take a bit of effort!
